@@ -14,5 +14,3 @@
 - **Python 3.8+**: Ensure Python is installed on your system.
 - **Chrome Browser**: Required for Selenium (used by `SteamDBScraper`).
 - **Gmail Account**: For sending emails via SMTP (requires an app password if 2FA is enabled).
-
-## Project Structure
